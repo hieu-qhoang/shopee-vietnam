@@ -6,3 +6,5 @@ Everyday, we need to run the Python programe to collect data and push it into My
 Below is the dashboard created based on the 3 Months datasource. The dashboard show overall performance of each shop and its market share against other competitors.
 
 Full interactive Dashboard in Tableau Public: https://public.tableau.com/app/profile/hieu.qhoang/viz/ShopeeMall-ShopPerformanceDetails/ShopeeMall-ShopPerformanceDetails 
+
+[embed] https://github.com/hieu-qhoang/shopee-vietnam/blob/main/Shopee%20Mall%20-%20Shop%20Performance.pdf [/embed]
